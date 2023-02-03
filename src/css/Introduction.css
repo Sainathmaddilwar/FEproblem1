@@ -1,0 +1,16 @@
+.container{
+    width: 80vw;
+    margin: 2rem auto 0;
+    align-items: center;
+    font-size: 1.3rem;
+    padding-bottom: 10vh;
+  }
+  .intro-btn{
+    position: absolute;
+    width: 100px;
+    text-align: center;
+    left: 40%;
+    color: black;
+    padding-top: 1rem;
+    
+  }

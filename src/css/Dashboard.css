@@ -1,0 +1,16 @@
+.genralPanel{
+    display: flex;
+  margin-top: 100px;
+ justify-content: space-around;
+}
+.dashboard-btn{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  
+}
+.headPanel{
+  display: flex;
+  justify-content:space-around;
+  /* margin-top: 100px; */
+}
